@@ -1,1 +1,3 @@
-*.aux, *.log, *.pdf
+*.aux
+*.log
+*.pdf
